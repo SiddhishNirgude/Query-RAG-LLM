@@ -1,0 +1,6 @@
+openai
+streamlit
+scikit-learn
+numpy
+langchain-core
+langchain-text-splitters
