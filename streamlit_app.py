@@ -264,4 +264,4 @@ elif options == "What's Next?":
     st.write("Thanks :)")
 # Footer
 st.sidebar.markdown("---")
-st.sidebar.write("Created by Sivagugan Jayachandran")
+st.sidebar.write("Created by Siddhish Nirgude")
